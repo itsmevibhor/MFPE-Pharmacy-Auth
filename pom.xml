@@ -89,6 +89,6 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>auth/finalName>
+        <finalName>auth</finalName>
     </build>
 </project>
